@@ -5,7 +5,10 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "na": "npx zenn new:article"
+    "na": "npx zenn new:article",
+    "": "新しい記事をarticleフォルダに作成する",
+    "prev": "npx zenn preview",
+    "": "記事のプレビューをブラウザで表示する(publishedをtrueにすること)"
   },
   "keywords": [],
   "author": "",
